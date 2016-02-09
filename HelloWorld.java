@@ -1,5 +1,5 @@
-public static void main(String args[])
-{
-  System.out.println("Hello World");
-   System.out.println("SienaDrMeg was here");
+
+public static void main(args[] string){
+System.out.print("Hello World");
+System.out.print("codecutr was here!");
 }
